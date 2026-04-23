@@ -1,0 +1,4 @@
+movieenv/
+__pycache__/
+*.pyc
+.env
